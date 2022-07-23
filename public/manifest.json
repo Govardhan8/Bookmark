@@ -1,0 +1,21 @@
+{
+    "name": "Bookmark",
+    "short_name": "BM",
+    "icons": [
+        {
+            "src": "/192Icon.png",
+            "sizes": "192x192",
+            "types": "image/png"
+        },
+        {
+            "src": "512Icon.png",
+            "sizes": "512x512",
+            "types": "image/png"
+        }
+    ],
+    "theme_color": "white",
+    "background_color": "White",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait"
+}
