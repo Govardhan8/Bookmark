@@ -1,0 +1,22 @@
+.textField {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+}
+.label {
+	font-weight: 600;
+	letter-spacing: 0.1rem;
+	color: rgb(73, 18, 200);
+	padding-block: 0.75rem;
+}
+.input {
+	width: 100%;
+	padding: 0.5rem;
+	border-radius: 1.5rem;
+	outline: none;
+	border: none;
+}
+.span {
+	color: red;
+	padding: 0.2em;
+}
